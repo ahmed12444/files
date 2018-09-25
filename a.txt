@@ -1,0 +1,7 @@
+      	      digit    start with
+AMEX  	      15          34,37
+MASTERCARD    16        51, 52, 53, 54, 55
+VISA          13,16        4
+
+
+
